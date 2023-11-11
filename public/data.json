@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "image": "Rectangle 4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#FFC0CB",
+      "card_bg": "#F5F5F5",
+      "text_btn_bg": "#4CAF50",
+      "description": "A stylish and durable leather backpack for everyday use.",
+      "price": 79.99
+    },
+    {
+      "id": 2,
+      "image": "Rectangle 4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#87CEEB",
+      "card_bg": "#EFEFEF",
+      "text_btn_bg": "#FFA500",
+      "description": "The latest smartwatch with advanced health tracking features.",
+      "price": 129.99
+    },
+    {
+      "id": 3,
+      "image": "Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#90EE90",
+      "card_bg": "#F0FFF0",
+      "text_btn_bg": "#800080",
+      "description": "A premium set of organic green teas from around the world.",
+      "price": 24.99
+    },
+    {
+      "id": 4,
+      "image": "Rectangle 4287-2.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#FFD700",
+      "card_bg": "#FFFACD",
+      "text_btn_bg": "#4682B4",
+      "description": "Capture memories with this classic vintage Polaroid camera.",
+      "price": 89.99
+    },
+    {
+      "id": 5,
+      "image": "Rectangle 4287-2.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#00CED1",
+      "card_bg": "#F0FFFF",
+      "text_btn_bg": "#FF6347",
+      "description": "Stay fit and active with the advanced fitness tracker.",
+      "price": 49.99
+    },
+    {
+      "id": 6,
+      "image": "Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#D2B48C",
+      "card_bg": "#FFF8DC",
+      "text_btn_bg": "#008080",
+      "description": "Handpicked and roasted artisanal coffee beans for coffee lovers.",
+      "price": 19.99
+    },
+    {
+      "id": 7,
+      "image": "Rectangle 4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#ADD8E6",
+      "card_bg": "#F0F8FF",
+      "text_btn_bg": "#DC143C",
+      "description": "Enjoy music on the go with these sleek wireless earbuds.",
+      "price": 59.99
+    },
+    {
+      "id": 8,
+      "image": "Rectangle 4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#C0C0C0",
+      "card_bg": "#F5F5F5",
+      "text_btn_bg": "#2E8B57",
+      "description": "Illuminate your workspace with this modern desk lamp.",
+      "price": 34.99
+    },
+    {
+      "id": 9,
+      "image": "Rectangle 4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#D2691E",
+      "card_bg": "#FAF0E6",
+      "text_btn_bg": "#8B4513",
+      "description": "Indulge in a selection of exquisite gourmet chocolates.",
+      "price": 29.99
+    },
+    {
+      "id": 10,
+      "image": "Rectangle 4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#808080",
+      "card_bg": "#F5F5F5",
+      "text_btn_bg": "#B22222",
+      "description": "Secure your home with the latest smart home security system.",
+      "price": 149.99
+    },
+    {
+      "id": 11,
+      "image": "Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#32CD32",
+      "card_bg": "#F0FFF0",
+      "text_btn_bg": "#FF4500",
+      "description": "Grill delicious meals outdoors with this portable grill.",
+      "price": 79.99
+    },
+    {
+      "id": 12,
+      "image": "Rectangle 4287-2.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#800080",
+      "card_bg": "#E6E6FA",
+      "text_btn_bg": "#FFD700",
+      "description": "Experience the nostalgia with this retro vinyl record player.",
+      "price": 129.99
+    }
+  ]
+  
