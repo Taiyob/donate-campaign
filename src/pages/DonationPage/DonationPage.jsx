@@ -42,13 +42,9 @@ const DonationPage = () => {
                     ></DonationPageCard>
                   ))}
           </div>
-          {donateCard.length > 3 && (
-            <button
-              onClick={() => setShow(!isShow)}
-              className="px-5 bg-orange-300 block mx-auto"
-            >
-              {isShow ? "See less" : "See more"}
-            </button>
+          {donateCard.length >= 4 && (
+
+            <button onClick={() => setShow(!isShow)} className={`mx-auto mt-10 btn bg-green-500 ${isShow ? 'hidden' : 'block'}`}>see more</button>
           )}
         </div>
       )}

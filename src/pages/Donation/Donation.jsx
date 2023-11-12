@@ -11,6 +11,8 @@ const Donation = ({ donation }) => {
           ? "bg-indigo-100"
           : category === "Education"
           ? "bg-red-100"
+          : category === "Food"
+          ? "bg-red-100"
           : "bg-lime-50"
       }`} 
     >
@@ -29,6 +31,8 @@ const Donation = ({ donation }) => {
                 ? "bg-indigo-200 text-blue-800"
                 : category === "Education"
                 ? "bg-red-200 text-red-500"
+                : category === "Food"
+                ? "bg-red-200 text-red-500"
                 : "bg-lime-200 text-lime-500"
             }`}
           >
@@ -40,6 +44,8 @@ const Donation = ({ donation }) => {
             category === "Health"
               ? "text-blue-800"
               : category === "Education"
+              ? "text-red-500"
+              : category === "Food"
               ? "text-red-500"
               : "text-lime-500"
           } dark:text-gray-400`}
